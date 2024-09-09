@@ -1,4 +1,4 @@
-program pastorino;
+program perdidoEstoy;
 const
   fin = -1;
 type
